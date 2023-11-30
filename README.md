@@ -8,7 +8,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:Tarek-Hassan/larageJson.git
+    git clone git@github.com:Tarek-Hassan/processesLargeJSONFiles.git
 
 Install all the dependencies using composer
 
